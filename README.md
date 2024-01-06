@@ -37,15 +37,3 @@ This in-silico experiment provides valuable insights into molecular communicatio
 
 #### References
 - S. Basu et al., “A synthetic multicellular system for programmed pattern formation,” Nature (2005).
-- [Additional relevant literature and resources]
-
-#### Acknowledgements
-This project was guided by [Supervisor/Instructor name], [University/Institution], and is a part of the coursework in [Course Name/Code].
-
----
-
-For detailed information on the experimental setup, code, and results, please refer to the accompanying Python scripts and output files.
-
----
-
-`Note: This README is prepared based on the provided in-silico experiment document and the Python script attached earlier.`
