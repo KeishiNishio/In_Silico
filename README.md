@@ -30,11 +30,7 @@ The experiment focuses on AHL (N-acyl homoserine lactone), a molecule involved i
 - The results are compared with in-vitro experiments to validate the in-silico model.
 - Patterns of GFP expression are analyzed to understand how molecular signals propagate and influence cellular behavior in a synthetic multicellular system.
 
-![pattern A](https://github.com/KeishiNishio/In_Silico_experiment/blob/main/patternA.png)
-![pattern B](https://github.com/KeishiNishio/In_Silico_experiment/blob/main/patternB.png)
-![pattern C](https://github.com/KeishiNishio/In_Silico_experiment/blob/main/patternC.png)
-![pattern D](https://github.com/KeishiNishio/In_Silico_experiment/blob/main/patternD.png)
-
+<img src="https://github.com/KeishiNishio/In_Silico_experiment/blob/main/patternA.png" width="200"><img src="https://github.com/KeishiNishio/In_Silico_experiment/blob/main/patternB.png" width="200"><img src="https://github.com/KeishiNishio/In_Silico_experiment/blob/main/patternC.png" width="200"><img src="https://github.com/KeishiNishio/In_Silico_experiment/blob/main/patternD.png" width="200">
 
 #### Conclusion
 This in-silico experiment provides valuable insights into molecular communication, offering a computational approach to study complex biological systems. It demonstrates the potential of computational biology in augmenting traditional experimental methods, allowing for more nuanced exploration of molecular dynamics in biological systems.
