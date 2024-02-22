@@ -30,10 +30,10 @@ The experiment focuses on AHL (N-acyl homoserine lactone), a molecule involved i
 - The results are compared with in-vitro experiments to validate the in-silico model.
 - Patterns of GFP expression are analyzed to understand how molecular signals propagate and influence cellular behavior in a synthetic multicellular system.
 
-![pattern A]([https://github.com/KeishiNishio/CreditcardAuthorization/blob/master/system_image.png](https://github.com/KeishiNishio/In_Silico_experiment/blob/main/patternA.png)
-![pattern A]([https://github.com/KeishiNishio/CreditcardAuthorization/blob/master/system_image.png](https://github.com/KeishiNishio/In_Silico_experiment/blob/main/patternB.png)
-![pattern A]([https://github.com/KeishiNishio/CreditcardAuthorization/blob/master/system_image.png](https://github.com/KeishiNishio/In_Silico_experiment/blob/main/patternC.png)
-![pattern A]([https://github.com/KeishiNishio/CreditcardAuthorization/blob/master/system_image.png](https://github.com/KeishiNishio/In_Silico_experiment/blob/main/patternD.png)
+![pattern A](https://github.com/KeishiNishio/In_Silico_experiment/blob/main/patternA.png)
+![pattern B](https://github.com/KeishiNishio/In_Silico_experiment/blob/main/patternB.png)
+![pattern C](https://github.com/KeishiNishio/In_Silico_experiment/blob/main/patternC.png)
+![pattern D](https://github.com/KeishiNishio/In_Silico_experiment/blob/main/patternD.png)
 
 
 #### Conclusion
